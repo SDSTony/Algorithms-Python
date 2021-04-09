@@ -11,6 +11,6 @@ for i in range(3, N+1):
 print(dp[N])
 
 """
-i-1까지 채워진 경우와
-i-2까지 채워진 경우를 잘 살펴보자 
+i-1(counting unit)까지 채워진 경우와
+i-2(counting unit)까지 채워진 경우를 잘 살펴보자 
 """
